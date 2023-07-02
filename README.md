@@ -4,6 +4,7 @@ Dieselpunk Desktop Wireless widget, written in Javascript and XML for the Yahoo
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+![panzer-wirelessphoto750](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/b4398510-a31c-44a6-9973-46e9070ef627)
 
 A Dieselpunk Wireless widget. - I created for the World of Tanks and War Thunder 
 communities.This Panzer widget is a simple wireless strength gauge. Functional 
@@ -11,10 +12,14 @@ and gorgeous at the same time. The graphics are my own, I took original
 inspiration from a clock face by Italo Fortana. It is mostly my code with some 
 solid help from Harry Whitfield. 
 
+![Default2](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/78d85020-a542-415f-9c9f-264aff9d86f9)
+
 To find out how the widget operates, simply right click and select Help and a 
 full explanation of all the buttons, windows is shown. The top left window is 
 the current signal in digital form. The bottom right window is the bandwidth 
 used.
+
+![wireless-icon-01](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/63238f42-1723-42de-a8bf-3b2a410b5c74)
 
 The middle button selects the wireless device. Hovering over any control should 
 supply a pop-up explaining each function.
@@ -30,6 +35,7 @@ the Yahoo Widget Konfabulator engine. The engine interprets the javascript and
 creates the widget according to the XML description and using the images you 
 provide. 
 
+![wireless-icon-01](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/1c2d9a7a-0215-4db9-b380-27fb394ee6d4)
 
 This widget was created with the serious coding skills of Harry Whitfield. I 
 supplied the graphics, the original code, the concept and idea and steered the 
@@ -99,6 +105,7 @@ Tested on :
  menubar item should appear. Widgets can then be started from the menubar or by 
  double-clicking on the KON file in the usual way.
  
+ ![panzer-wireless-gauge-help](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/a52da218-3151-4ae5-b3a7-d0aa768eb45f)
 
  LICENCE AGREEMENTS:
  
@@ -111,5 +118,6 @@ Tested on :
  With regard to the commercial use of incorporated images, permission and a
  licence would need to be obtained from the original owner and creator, ie. me.
  
+![about](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/1e39148e-22bc-43e5-8513-79581b478f23)
 
 
