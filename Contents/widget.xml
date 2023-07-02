@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<name>Panzer Wireless Widget</name>
+	<version>1.1</version>
+	<author name="Dean Beedell" />
+	<image usage="security" src="Resources/images/security.png"/>
+	<image usage="dock" src="Resources/images/dock.png"/>
+	<platform minVersion="4.5" />
+    <copyright>(c) 2011-2018 Dean Beedell</copyright>
+    <description>The Konfabulator Panzer Wireless Widget based upon real-life gauges used in tanks and aeroplanes. Adapted to have more detail.</description>
+	<security>
+          <filesystem>full</filesystem>
+          <http>all</http>
+          <applescript>true</applescript>
+          <command>true</command>
+          <hotkey>false</hotkey>
+          <com name="Windows performance object">WbemScripting.SWbemLocator</com>
+	</security>
+</metadata>
