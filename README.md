@@ -4,6 +4,9 @@ Dieselpunk Desktop Wireless widget, written in Javascript and XML for the Yahoo
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+This widget is now deprecated and is retained for historical reasons only, it still works but time moves ever onward - please use the VB6 version instead that you will find here: https://github.com/yereverluvinunclebert/Panzer-Wireless-Gauge-VB6
+
+
 ![panzer-wirelessphoto750](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/b4398510-a31c-44a6-9973-46e9070ef627)
 
 A Dieselpunk Wireless widget. - I created for the World of Tanks and War Thunder 
